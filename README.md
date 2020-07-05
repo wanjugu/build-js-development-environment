@@ -1,2 +1,2 @@
 # build-js-development-environment
-JS Noileprate
+JS Boileprate

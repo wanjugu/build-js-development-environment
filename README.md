@@ -1,2 +1,2 @@
 # build-js-development-environment
-JS Boileprate
+JS Boilerplate
